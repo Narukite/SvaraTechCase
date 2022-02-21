@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SvaraTechCase</string>
+    <string name="there_are_no_more_pokemons">There are no more pokemons!</string>
+    <string name="height_template">%s decimetres</string>
+    <string name="weight_template">%s hectograms</string>
+    <string name="base_experience_template">%s exp</string>
+    <string name="look_at_all_these_pokemons">Look at all these pokemons!</string>
+    <string name="you_released_name">You released %s!</string>
+    <string name="you_caught_name">You caught %s!</string>
+    <string name="you_failed_to_caught_name">You failed to caught %s!</string>
+    <string name="caught_pokemon">Caught Pokemon</string>
+    <string name="no_caught_pokemon">You haven\'t caught any pokemon yet!</string>
+    <string name="close">Close</string>
+    <string name="input_your_new_pokemon_s_name">Input your new pokemon\'s name!</string>
+    <string name="new_name">New name</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Confirm</string>
+    <string name="null_activity">Null Activity!</string>
+</resources>
